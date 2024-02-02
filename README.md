@@ -1,7 +1,7 @@
-### Task 1
+## Task 1
 Given an integer x, return true if x is a palindrome, and false otherwise. 
 
-#### Example
+### Example
 **Input**: x = 121 \
 **Output**: true
 
@@ -9,7 +9,7 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 **Output**: false
 
 
-### Task 2
+## Task 2
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. \
 An input string is valid if: 
 - Open brackets must be closed by the same type of brackets.
