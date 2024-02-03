@@ -14,7 +14,7 @@ Input: only numbers < 10^8
 
 ### Time
 Expected time: 10 min \
-Real Time: 
+Real Time: 5 min
 
 
 ## Task 2
