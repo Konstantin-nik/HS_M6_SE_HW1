@@ -8,6 +8,10 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 **Input**: x = 10 \
 **Output**: false
 
+### Time
+Expected time: 10 min \
+Real Time: 
+
 
 ## Task 2
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. \
