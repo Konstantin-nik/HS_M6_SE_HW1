@@ -34,3 +34,7 @@ Input and Output: CLI
 
 **Input**: s = "(]" \
 **Output**: false
+
+### Time
+Expected time: 15 min \
+Real Time: 
