@@ -37,4 +37,4 @@ Input and Output: CLI
 
 ### Time
 Expected time: 15 min \
-Real Time: 
+Real Time: 20 min
